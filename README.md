@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maye Oikeh
-==================================================================================================================================
+Hi 😊 My name is Maye Oikeh
+===========================
 
 Mobile App Developer
 --------------------
 
-* 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [maye4reala@outlook.com](mailto:maye4reala@outlook.com)
-* 🧠  I'm learning Everything Kotlin and JavaScript
-* 🤝  I'm open to collaborating on native app development using Kotlin
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [maye4reala@outlook.com](mailto:maye4reala@outlook.com)
+* 🧠  I'm learning Everything Kotlin and JavaScript
+* 🤝  I'm open to collaborating on native app development using Kotlin
 
 ### Skills
+
 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -19,6 +20,7 @@ Mobile App Developer
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+
 
 ### Socials
 
